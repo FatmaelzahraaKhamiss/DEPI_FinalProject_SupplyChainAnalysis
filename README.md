@@ -19,4 +19,3 @@ These insights focus on customer response, pricing strategy effectiveness, and c
 •	Crisis Resilience: The average sales drop during the pandemic was 60.16%. However, the Pearson correlation between the pandemic flag and overall demand is 0.00, suggesting the pandemic shifted how sales occurred rather than eliminating demand entirely.
 •	Top Crisis Category: The Groceries category demonstrated the highest resilience and demand during the pandemic period.
 
-
